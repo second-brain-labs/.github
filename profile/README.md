@@ -1,0 +1,1 @@
+Second Brain Labs is building a platform that will allow users to store, summarize and search through what they've been reading - whether that's web articles or their own notes.
